@@ -22,6 +22,17 @@
   color: #373737;
 }
 
+.display-flex {
+  display: flex;
+  justify-content: end;
+}
+
+.display-flex-center {
+  display: flex;
+  justify-content: center;
+  
+}
+
 @media (max-width: 600px) {
  .email-form {  
     margin-top: 100px;
